@@ -73,6 +73,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasif-sahl&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rasif-sahl" /></p>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasif-sahl&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rasif-sahl" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasif-sahl&theme=highcontrast" alt="rasif-sahl" /></p>
