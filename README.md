@@ -29,8 +29,7 @@
 ---
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
-
+Experienced full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specializing in front-end React development and back-end Laravel and Node.js. Also, an active contributor to the open-source community with several npm packages to my name. Explore my GitHub profile to discover my projects, including innovative solutions, and don't forget to check out my insightful articles on LinkedIn and Medium.
 
 - :telescope: I’m working as a Software Engineer.
 
