@@ -35,7 +35,7 @@ Experienced full-stack developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: Ask me about **PHP , Laravel , React**
+- :zap: Ask me about **PHP , Laravel , React, Node**
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -63,15 +63,17 @@ Experienced full-stack developer <img src="https://media.giphy.com/media/WUlplcM
 </div>
 
 ---
+### :fire: My Stats :
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasif-sahl&show_icons=true&theme=dark&title_color=2205ff&text_color=fff700&bg_color=0e0123&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="rasif-sahl" />
-</p>
+<span>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasif-sahl&theme=highcontrast" alt="rasif-sahl"  width="575" />
+</span>
+
+
+<span >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasif-sahl&show_icons=true&theme=dark&title_color=2205ff&text_color=fff700&bg_color=0e0123&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="rasif-sahl"  width="425" />
+</span>
 
 ---
 
-### :fire: My Stats :
-
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasif-sahl&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rasif-sahl" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasif-sahl&theme=highcontrast" alt="rasif-sahl" /></p>
