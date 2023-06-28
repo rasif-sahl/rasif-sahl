@@ -66,12 +66,12 @@ Experienced full-stack developer <img src="https://media.giphy.com/media/WUlplcM
 ### :fire: My Stats :
 
 <span>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasif-sahl&theme=highcontrast" alt="rasif-sahl"  width="575" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasif-sahl&theme=highcontrast" alt="rasif-sahl"  width="auto" />
 </span>
 
 
 <span >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasif-sahl&show_icons=true&theme=dark&title_color=2205ff&text_color=fff700&bg_color=0e0123&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="rasif-sahl"  width="425" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasif-sahl&show_icons=true&theme=dark&title_color=2205ff&text_color=fff700&bg_color=0e0123&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="rasif-sahl"  width="345" />
 </span>
 
 ---
